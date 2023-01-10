@@ -1,4 +1,4 @@
-[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)](https://sumit2011.github.io/sumit.github.io)
+[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)](https://sumit2011.github.io)
 <h1 align="center">Hi 👋, I'm Sumit Kr.</h1>
 <h3 align="center">A cybersecurity enthusiast and competitive programmer.</h3>
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/_su__mit___" target="blank"><img src="https://img.shields.io/twitter/follow/_su__mit___?logo=twitter&style=for-the-badge" alt="_su__mit___" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://sumit2011.github.io/sumit.github.io/](https://sumit2011.github.io/sumit.github.io/)
+- 👨‍💻 All of my projects are available at [sumit2011.github.io](https://sumit2011.github.io)
 
 - 📝 I regularly write articles on [dsa notes and basic security blogs](dsa notes and basic security blogs)
 
