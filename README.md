@@ -1,6 +1,6 @@
 [![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)](https://sumit2011.github.io)
 <h1 align="center">Hi 👋, I'm Sumit Kr.</h1>
-<h3 align="center">A cybersecurity enthusiast and competitive programmer.</h3>
+<h3 align="center">A Cybersecurity Enthusiast and Competitive Programmer.</h3>
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumit2011&label=Profile%20views&color=0e75b6&style=flat" alt="sumit2011" /> </p>
